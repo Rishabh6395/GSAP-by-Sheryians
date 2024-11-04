@@ -27,7 +27,7 @@ gsap.from("#page2 h1",{
         markers: true,
         start:'top 50%',
         end: '30%',
-        scrub: 2
+        scrub: 2 // This propertie use when we need perform animation based on our scroll.
     }
 })
 gsap.from("#page2 h2",{
