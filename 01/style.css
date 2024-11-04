@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+    font-family: sans-serif;
+    color: white;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(255, 253, 143);
+}
+#box3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(199, 111, 250);
+}
